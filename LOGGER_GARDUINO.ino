@@ -1,7 +1,7 @@
 //--------------------------------------------------------
 // LOGGER_GARDUINO v1.2 (runs only on Arduino Uno boards)
 // Rotary Encoder ISR based on some code from Simon Merrett, Oleg Mazurov, Nick Gammon and Steve Spence
-// v1.1: single pump, rotary encoder with sw debounce, I2C RTC, SPI SD, I2C BM280 sensor
+// single pump, rotary encoder with sw debounce, I2C RTC, SPI SD, I2C BM280 sensor
 //--------------------------------------------------------
 
 //#define SERIAL_DEBUG   // uncomment to get debug messages on serial monitor
